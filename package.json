@@ -1,0 +1,14 @@
+{
+  "name": "console-jackpot-js-application",
+  "version": "1.0.0",
+  "description": "A CLI slot machine game built with JavaScript",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Kuzero",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
