@@ -3,9 +3,9 @@ const COLS = 3;
 
 const SYMBOLS_COUNT = {
   A: 4,
-  B: 6,
-  C: 8,
-  D: 10,
+  B: 8,
+  C: 10,
+  D: 12,
 };
 
 const SYMBOL_VALUES = {
